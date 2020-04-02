@@ -231,7 +231,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    wsUrl: 'http://54.208.107.192:3000/'
+    wsUrl: 'http://54.224.18.150:3000/'
 };
 /*
  * For easier debugging in development mode, you can import the following file

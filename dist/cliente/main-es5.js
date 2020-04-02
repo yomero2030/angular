@@ -442,7 +442,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var environment = {
       production: false,
-      wsUrl: 'http://54.208.107.192:3000/'
+      wsUrl: 'http://54.224.18.150:3000/'
     };
     /*
      * For easier debugging in development mode, you can import the following file
