@@ -76,7 +76,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function AppComponent_span_2_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "span", 3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, " off line\n");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, " line\n");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } }
 function AppComponent_span_3_Template(rf, ctx) { if (rf & 1) {
